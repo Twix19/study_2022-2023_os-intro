@@ -3,7 +3,7 @@ FILES += $(patsubst %.md, %.pdf, $(wildcard *.md))
 FILES += $(patsubst %.md, %.html, $(wildcard *.md))
 
 FILTERS =
-PDF_ENGINE =
+PDF_ENGINE = --pdf-engine=lualatex
 PDF_OPTIONS =
 PDF_FORMAT_OPTIONS = -t beamer --slide-level=2
 
