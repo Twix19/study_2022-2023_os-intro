@@ -37,20 +37,20 @@ header-includes:
 ![2]('/home/vsdedova/Изображения/2.jpg')
 ##В домашнем каталоге создаём новый каталог с именем newdir.В каталоге ~/newdir с> letters, memos, misk. Затем удаляем эти каталоги одной командой. Удаляем созанн>
 ![3]('/home/vsdedova/Изображения/3.jpg')
-![4](/home/vsdedova/Изображения/4.jpg)
+![4]('/home/vsdedova/Изображения/4.jpg')
 
 ##С помощью команды man определите, какую опцию команды ls нужно использовать для>.Определяем набор опций команды ls
-![ls](/home/vsdedova/Изображения/man ls.jpg)
-![ls](/home/vsdedova/Изображения/ls.jpg)
-![ls](/home/vsdedova/Изображения/ls2.jpg)
+![ls]('/home/vsdedova/Изображения/man ls.jpg')
+![ls]('/home/vsdedova/Изображения/ls.jpg')
+![ls]('/home/vsdedova/Изображения/ls2.jpg')
 ##Определяем набор опций команд cd, mkdir,rmdir, rm.
-![cd](/home/vsdedova/Изображения/cd.jpg)
-![mkdir](/home/vsdedova/Изображения/mkdir.jpg)
-![rmdir](/home/vsdedova/Изображения/rmdir.jpg)
-![rm](/home/vsdedova/Изображения/rm.jpg)
+![cd]('/home/vsdedova/Изображения/cd.jpg')
+![mkdir]('/home/vsdedova/Изображения/mkdir.jpg')
+![rmdir]('/home/vsdedova/Изображения/rmdir.jpg')
+![rm]('/home/vsdedova/Изображения/rm.jpg')
 ##Используя информацию, полученную при помощи команды history, выполните модифика>
-![history](/home/vsdedova/Изображения/history.jpg)
-![mo](/home/vsdedova/Изображения/modific.jpg)
+![history]('/home/vsdedova/Изображения/history.jpg')
+![mo]('/home/vsdedova/Изображения/modific.jpg')
 
 ##Вывод
 На данной лабораторной работе я приобрела  практические  навыки  взаимодействия пользователя с системой по-
